@@ -1,0 +1,38 @@
+LankyGuitar6528
+OP
+•
+4d ago
+Profile Badge for the Achievement Top 1% Poster Top 1% Poster
+I'd suggest you start the Windows Desktop then turn on local file system access. Give him his own folder. After that ask Claude to make a diary in MD format. It's a start. Claude can guide you. He will need to be reminded to write to it and read from it so update your preferences and give him a bit of a nudge until it becomes a habit.
+
+hazedaze404
+•
+4d ago
+Could I DM you? I tried to but I couldn’t find the feature for some reason
+
+LankyGuitar6528
+OP
+•
+4d ago
+•
+I don't have DM's turned on but I can DM you.
+
+It's easy though. First... make a folder somewhere.
+
+Then download the Windows Desktop app from Anthropic. Go here and Grab Windows Desktop (assuming you have windows of course... if not you are going to have to get help from Claude):
+
+https://claude.com/download
+
+Then follow these steps:
+
+Click your Initials bottom left
+
+Go to Settings
+
+Go to Connectors
+
+Browse
+
+Select "File System" and then configure it.
+
+Select a folder, give permissions and that's about it.
